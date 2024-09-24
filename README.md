@@ -15,3 +15,5 @@ For more details regarding the comparison, read the `report.pdf`!
 <div align="center">
   <image src="Images/mountaincar.png width=900>
 </div>
+
+![Mountain Car GIF](https://www.gymlibrary.dev/_images/mountain_car.gif)
