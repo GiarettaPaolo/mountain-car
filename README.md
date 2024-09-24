@@ -13,6 +13,5 @@ To install and run the `main.ipynb`, install the `requirements.txt` file.
 For more details regarding the comparison, read the `report.pdf`!
 
 <div align="center">
-  <image src="Images/mountain_car.gif width=900>
+  <img src="Images/mountain_car.gif" width="600">
 </div>
-
