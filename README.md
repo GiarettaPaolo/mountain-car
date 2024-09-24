@@ -1,8 +1,3 @@
-
-Here’s the corrected Markdown with improved formatting and clarity:
-
-markdown
-Copy code
 # Mountain Car
 
 Comparison of Model-based and Model-free Reinforcement Learning techniques on the Mountain Car Environment. The training characteristics of the following agents are compared, highlighting the main differences:
